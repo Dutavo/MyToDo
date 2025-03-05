@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "422779870003",
+    "project_id": "mytodo-duta",
+    "storage_bucket": "mytodo-duta.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:422779870003:android:fed27007bbbe6a41d8bc46",
+        "android_client_info": {
+          "package_name": "br.com.dutavo.mytodo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVYcuUzbwtq_o869BKIGVcwBh3i6PGKvM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
